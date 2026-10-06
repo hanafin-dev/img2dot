@@ -1,2 +1,5 @@
-# img2dot
-CLI image-to-ASCII converter
+# Img2Dot
+
+Консольный графический конвертер изображений в ASCII и точечную графику на Python.
+
+🛠 **Стек:** Python, Pillow (PIL)
